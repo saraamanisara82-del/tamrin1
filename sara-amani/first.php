@@ -1,6 +1,7 @@
-
 <?php
-echo "سارا <br>";
-echo "امانی <br>";
+echo "سارا";
+echo "<br>";
+echo "امانی";
+echo "<br>";
 echo "سبزوار";
 ?>
